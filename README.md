@@ -18,3 +18,7 @@ bikeshare.py
 
 ### Credits
 GitHub Project repository
+
+###comments
+Additional Changes to Documentation
+In a real world situation, you or other members of your team would likely be making other changes to documentation on the documentation branch.  To simulate this follow the tasks below.

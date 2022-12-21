@@ -135,4 +135,10 @@ def main():
 
 if __name__ == "__main__":
 	main()
+<<<<<<< HEAD
 #this comment for Refactor Code by Amgad student
+=======
+
+#additional changes to the documentation - this might be additional changes to the README 
+#or changes to the document strings and line comments of the bikeshare file.
+>>>>>>> master

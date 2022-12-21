@@ -2,17 +2,27 @@
 
 ### Date created
 Include the date you created this project and README file.
-
+21-12-2022
 ### Project Title
-Replace the Project Title
+amgad_project
 
 ### Description
-Describe what your project is about and what it does
-
+Project Github Project:github project 
+Programming for Data Science Nanodegree Program using python 
 ### Files used
 Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+GitHub Project repository
 
+<<<<<<< HEAD
 task 4:Refactor Code
+=======
+###comments
+Additional Changes to Documentation
+In a real world situation, you or other members of your team would likely be making other changes to documentation on the documentation branch.  To simulate this follow the tasks below.
+>>>>>>> master
